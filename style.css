@@ -1,0 +1,43 @@
+
+.letras{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+    line-height: 1.5;
+}
+.titulo{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 50px;
+    font-family: Impact;
+
+}
+.navbar {
+    position:fixed;
+    z-index: 1000;
+    top:0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #313131;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.html {
+    background-color: #ff0000; /* Define a cor de fundo como vermelho */
+  }
